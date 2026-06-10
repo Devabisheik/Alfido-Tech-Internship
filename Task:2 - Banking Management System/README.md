@@ -160,4 +160,4 @@ This project helped strengthen my understanding of Java programming, database co
 **Abisheik R**
 
 GitHub Repository:
-https://github.com/Devabisheik/BANKING_SYSTEM
+https://github.com/Devabisheik/Alfido-Tech-Internship/edit/main/Task%3A2%20-%20Banking%20Management%20System
