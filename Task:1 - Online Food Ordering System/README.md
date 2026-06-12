@@ -1,6 +1,6 @@
-# 🍔 Online Food Ordering System
+# Online Food Ordering System
 
-## 📌 Project Overview
+## Project Overview
 
 The Online Food Ordering System is a console-based Java application developed using Object-Oriented Programming (OOP) concepts. The system allows customers to browse restaurant menus, place food orders, make payments, and track delivery status.
 
@@ -8,7 +8,7 @@ This project demonstrates the practical implementation of Java programming conce
 
 ---
 
-## 🚀 Features
+## Features
 
 * Customer Registration
 * Restaurant Management
@@ -25,7 +25,7 @@ This project demonstrates the practical implementation of Java programming conce
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Java
 * Eclipse IDE
@@ -35,7 +35,7 @@ This project demonstrates the practical implementation of Java programming conce
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 OnlineFoodOrderingSystem
@@ -55,7 +55,7 @@ OnlineFoodOrderingSystem
 
 ---
 
-## 🏗️ OOP Concepts Implemented
+##  OOP Concepts Implemented
 
 ### Encapsulation
 
@@ -79,7 +79,7 @@ Private attributes with public methods for controlled access.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone or download the repository.
 2. Open the project in Eclipse IDE.
@@ -88,7 +88,7 @@ Private attributes with public methods for controlled access.
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 ```text
 Menu of Food Hub
@@ -114,7 +114,7 @@ Status = DELIVERED
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 * MySQL Database Integration
 * JDBC Connectivity
@@ -126,14 +126,8 @@ Status = DELIVERED
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-**Arshad**
+**ABISHEIK.R**
 
 Java Developer | Learning OOP, JDBC, and Full Stack Development
-
----
-
-## 📄 License
-
-This project is developed for educational and internship purposes.
